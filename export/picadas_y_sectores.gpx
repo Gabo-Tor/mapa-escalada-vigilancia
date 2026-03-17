@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+<wpt lat="-37.871083" lon="-58.028194">
+  <name>Cuerda</name>
+</wpt>
+<wpt lat="-37.871278" lon="-58.027778">
+  <name>Pirka</name>
+</wpt>
+<wpt lat="-37.871611" lon="-58.028167">
+  <name>Palito</name>
+</wpt>
+<wpt lat="-37.874389" lon="-58.025556">
+  <name>Los Piletones</name>
+</wpt>
+<wpt lat="-37.8664973" lon="-58.0198251">
+  <name>La Olita</name>
+</wpt>
+<wpt lat="-37.865895" lon="-58.022639">
+  <name>Facilódromo</name>
+</wpt>
+<wpt lat="-37.86763" lon="-58.025154">
+  <name>Todos Contentos</name>
+</wpt>
+<wpt lat="-37.868003" lon="-58.025724">
+  <name>El Altillo</name>
+</wpt>
+<wpt lat="-37.869758" lon="-58.027536">
+  <name>Chiavolandia</name>
+</wpt>
+<wpt lat="-37.871294" lon="-58.028728">
+  <name>Baticueva</name>
+</wpt>
+<wpt lat="-37.873514" lon="-58.031647">
+  <name>El Bosque</name>
+</wpt>
+<wpt lat="-37.874012" lon="-58.032933">
+  <name>Zeus</name>
+</wpt>
+<wpt lat="-37.874667" lon="-58.034054">
+  <name>Las Placas</name>
+</wpt>
+<wpt lat="-37.875106191" lon="-58.035023671">
+  <name>Morphy</name>
+</wpt>
+<wpt lat="-37.87228856" lon="-58.029772301">
+  <name>Laberinto</name>
+</wpt>
+<wpt lat="-37.868816317" lon="-58.026393316">
+  <name>EL Nido</name>
+</wpt>
+<wpt lat="-37.866724823" lon="-58.018963985">
+  <name>El Bloque Izquierda</name>
+</wpt>
+<wpt lat="-37.866418795" lon="-58.019031891">
+  <name>La Plakita de Abajo</name>
+</wpt>
+<trk>
+  <name>picadas 1</name>
+  <trkseg>
+    <trkpt lat="-37.862454693" lon="-58.019012192"></trkpt>
+    <trkpt lat="-37.862702775" lon="-58.019040259"></trkpt>
+    <trkpt lat="-37.862963533" lon="-58.019176071"></trkpt>
+    <trkpt lat="-37.863155479" lon="-58.019215909"></trkpt>
+    <trkpt lat="-37.863322075" lon="-58.019235828"></trkpt>
+    <trkpt lat="-37.863452453" lon="-58.019286531"></trkpt>
+    <trkpt lat="-37.863653454" lon="-58.019270233"></trkpt>
+    <trkpt lat="-37.863872563" lon="-58.019371639"></trkpt>
+    <trkpt lat="-37.864363295" lon="-58.019521937"></trkpt>
+    <trkpt lat="-37.864430295" lon="-58.019512883"></trkpt>
+    <trkpt lat="-37.864677471" lon="-58.019664991"></trkpt>
+    <trkpt lat="-37.864865796" lon="-58.019889533"></trkpt>
+    <trkpt lat="-37.864965391" lon="-58.019925749"></trkpt>
+    <trkpt lat="-37.86502877" lon="-58.020007236"></trkpt>
+    <trkpt lat="-37.865179068" lon="-58.02001629"></trkpt>
+    <trkpt lat="-37.865247879" lon="-58.020081479"></trkpt>
+    <trkpt lat="-37.865459744" lon="-58.020079669"></trkpt>
+    <trkpt lat="-37.865514069" lon="-58.02017202"></trkpt>
+    <trkpt lat="-37.86569334" lon="-58.020235399"></trkpt>
+    <trkpt lat="-37.865727745" lon="-58.020407426"></trkpt>
+    <trkpt lat="-37.865867178" lon="-58.020420102"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>picadas 2</name>
+  <trkseg>
+    <trkpt lat="-37.86586748" lon="-58.020420102"></trkpt>
+    <trkpt lat="-37.865949571" lon="-58.020337106"></trkpt>
+    <trkpt lat="-37.866123409" lon="-58.020048583"></trkpt>
+    <trkpt lat="-37.866294833" lon="-58.019953817"></trkpt>
+    <trkpt lat="-37.866400464" lon="-58.0204198"></trkpt>
+    <trkpt lat="-37.866520582" lon="-58.020320205"></trkpt>
+    <trkpt lat="-37.866529032" lon="-58.020526236"></trkpt>
+    <trkpt lat="-37.866594222" lon="-58.020791018"></trkpt>
+    <trkpt lat="-37.86664412" lon="-58.020964052"></trkpt>
+    <trkpt lat="-37.866744721" lon="-58.020969685"></trkpt>
+    <trkpt lat="-37.866765646" lon="-58.021096442"></trkpt>
+    <trkpt lat="-37.866811922" lon="-58.021130647"></trkpt>
+    <trkpt lat="-37.866858601" lon="-58.021084773"></trkpt>
+    <trkpt lat="-37.866942301" lon="-58.021103686"></trkpt>
+    <trkpt lat="-37.866947733" lon="-58.021268269"></trkpt>
+    <trkpt lat="-37.867007893" lon="-58.02132541"></trkpt>
+    <trkpt lat="-37.867363349" lon="-58.02190286"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Subida Trekking</name>
+  <trkseg>
+    <trkpt lat="-37.865867341" lon="-58.020420114"></trkpt>
+    <trkpt lat="-37.86603056" lon="-58.020615959"></trkpt>
+    <trkpt lat="-37.866197758" lon="-58.020511535"></trkpt>
+    <trkpt lat="-37.866332664" lon="-58.020430953"></trkpt>
+    <trkpt lat="-37.866400464" lon="-58.0204198"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>picadas 4</name>
+  <trkseg>
+    <trkpt lat="-37.86603056" lon="-58.020615959"></trkpt>
+    <trkpt lat="-37.865980083" lon="-58.020816936"></trkpt>
+    <trkpt lat="-37.865974424" lon="-58.021015843"></trkpt>
+    <trkpt lat="-37.865918119" lon="-58.0212504"></trkpt>
+    <trkpt lat="-37.865837198" lon="-58.021351693"></trkpt>
+    <trkpt lat="-37.865885298" lon="-58.021528814"></trkpt>
+    <trkpt lat="-37.865843423" lon="-58.021615959"></trkpt>
+    <trkpt lat="-37.865829842" lon="-58.021964825"></trkpt>
+    <trkpt lat="-37.865874829" lon="-58.02203273"></trkpt>
+    <trkpt lat="-37.865865492" lon="-58.022343399"></trkpt>
+    <trkpt lat="-37.865901143" lon="-58.022640486"></trkpt>
+    <trkpt lat="-37.865979234" lon="-58.022951154"></trkpt>
+    <trkpt lat="-37.866008094" lon="-58.023375565"></trkpt>
+    <trkpt lat="-37.866143339" lon="-58.023449695"></trkpt>
+    <trkpt lat="-37.866180687" lon="-58.023343309"></trkpt>
+    <trkpt lat="-37.866257647" lon="-58.023436114"></trkpt>
+    <trkpt lat="-37.866493619" lon="-58.023834494"></trkpt>
+    <trkpt lat="-37.866649802" lon="-58.024189867"></trkpt>
+    <trkpt lat="-37.866923689" lon="-58.024502233"></trkpt>
+    <trkpt lat="-37.86712401" lon="-58.024748391"></trkpt>
+    <trkpt lat="-37.867288681" lon="-58.024875714"></trkpt>
+    <trkpt lat="-37.867621985" lon="-58.025164313"></trkpt>
+    <trkpt lat="-37.867864748" lon="-58.025424052"></trkpt>
+    <trkpt lat="-37.868011311" lon="-58.025714914"></trkpt>
+    <trkpt lat="-37.868419876" lon="-58.026050481"></trkpt>
+    <trkpt lat="-37.868715266" lon="-58.026135364"></trkpt>
+    <trkpt lat="-37.86882052" lon="-58.026395103"></trkpt>
+    <trkpt lat="-37.868981796" lon="-58.026544495"></trkpt>
+    <trkpt lat="-37.869156653" lon="-58.02702323"></trkpt>
+    <trkpt lat="-37.869185301" lon="-58.027056546"></trkpt>
+    <trkpt lat="-37.869245567" lon="-58.027053575"></trkpt>
+    <trkpt lat="-37.869283764" lon="-58.027150341"></trkpt>
+    <trkpt lat="-37.869405994" lon="-58.027096016"></trkpt>
+    <trkpt lat="-37.869720482" lon="-58.02739947"></trkpt>
+    <trkpt lat="-37.869892368" lon="-58.027413475"></trkpt>
+    <trkpt lat="-37.870170357" lon="-58.027534008"></trkpt>
+    <trkpt lat="-37.870259483" lon="-58.027713958"></trkpt>
+    <trkpt lat="-37.870461502" lon="-58.027880327"></trkpt>
+    <trkpt lat="-37.870778961" lon="-58.028213913"></trkpt>
+    <trkpt lat="-37.870875161" lon="-58.028239378"></trkpt>
+    <trkpt lat="-37.870930051" lon="-58.028363306"></trkpt>
+    <trkpt lat="-37.871012529" lon="-58.028396976"></trkpt>
+    <trkpt lat="-37.871113114" lon="-58.028520055"></trkpt>
+    <trkpt lat="-37.871298157" lon="-58.028717405"></trkpt>
+    <trkpt lat="-37.871604581" lon="-58.029000912"></trkpt>
+    <trkpt lat="-37.871989097" lon="-58.029461821"></trkpt>
+    <trkpt lat="-37.872050848" lon="-58.02955604"></trkpt>
+    <trkpt lat="-37.87228385" lon="-58.029782675"></trkpt>
+    <trkpt lat="-37.872365337" lon="-58.029846337"></trkpt>
+    <trkpt lat="-37.872468468" lon="-58.030027136"></trkpt>
+    <trkpt lat="-37.872617436" lon="-58.030079338"></trkpt>
+    <trkpt lat="-37.873010865" lon="-58.030705768"></trkpt>
+    <trkpt lat="-37.873156013" lon="-58.030825452"></trkpt>
+    <trkpt lat="-37.873414479" lon="-58.031180683"></trkpt>
+    <trkpt lat="-37.873452676" lon="-58.031450608"></trkpt>
+    <trkpt lat="-37.873518884" lon="-58.031647641"></trkpt>
+    <trkpt lat="-37.873721964" lon="-58.032165209"></trkpt>
+    <trkpt lat="-37.874010351" lon="-58.032931694"></trkpt>
+    <trkpt lat="-37.874673068" lon="-58.034058504"></trkpt>
+    <trkpt lat="-37.875104693" lon="-58.035022976"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>picadas 5</name>
+  <trkseg>
+    <trkpt lat="-37.873722601" lon="-58.032171363"></trkpt>
+    <trkpt lat="-37.873772681" lon="-58.031888706"></trkpt>
+    <trkpt lat="-37.873973852" lon="-58.031246997"></trkpt>
+    <trkpt lat="-37.873742973" lon="-58.030973677"></trkpt>
+    <trkpt lat="-37.873439095" lon="-58.030854842"></trkpt>
+    <trkpt lat="-37.873054296" lon="-58.030414021"></trkpt>
+    <trkpt lat="-37.872913958" lon="-58.030000928"></trkpt>
+    <trkpt lat="-37.872410324" lon="-58.029357522"></trkpt>
+    <trkpt lat="-37.872183689" lon="-58.028911891"></trkpt>
+    <trkpt lat="-37.871918857" lon="-58.028745523"></trkpt>
+    <trkpt lat="-37.871702408" lon="-58.028511248"></trkpt>
+    <trkpt lat="-37.871613281" lon="-58.028170022"></trkpt>
+    <trkpt lat="-37.871224097" lon="-58.027755798"></trkpt>
+    <trkpt lat="-37.870548436" lon="-58.02732969"></trkpt>
+    <trkpt lat="-37.870332835" lon="-58.027047881"></trkpt>
+    <trkpt lat="-37.869931343" lon="-58.026632808"></trkpt>
+    <trkpt lat="-37.869527305" lon="-58.026009773"></trkpt>
+    <trkpt lat="-37.869463926" lon="-58.025976952"></trkpt>
+    <trkpt lat="-37.869014051" lon="-58.024897252"></trkpt>
+    <trkpt lat="-37.868608881" lon="-58.024123128"></trkpt>
+    <trkpt lat="-37.867363349" lon="-58.021902859"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Rápel</name>
+  <trkseg>
+    <trkpt lat="-37.869463926" lon="-58.025976952"></trkpt>
+    <trkpt lat="-37.869449825" lon="-58.026051152"></trkpt>
+    <trkpt lat="-37.869573033" lon="-58.026456696"></trkpt>
+    <trkpt lat="-37.869664011" lon="-58.026564124"></trkpt>
+    <trkpt lat="-37.869625908" lon="-58.02691159"></trkpt>
+    <trkpt lat="-37.869724104" lon="-58.027001729"></trkpt>
+    <trkpt lat="-37.869773958" lon="-58.027138197"></trkpt>
+    <trkpt lat="-37.869914833" lon="-58.02733736"></trkpt>
+    <trkpt lat="-37.869892927" lon="-58.027412896"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Cadena</name>
+  <trkseg>
+    <trkpt lat="-37.866180746" lon="-58.023343399"></trkpt>
+    <trkpt lat="-37.866216216" lon="-58.0231956"></trkpt>
+    <trkpt lat="-37.866168629" lon="-58.023000717"></trkpt>
+    <trkpt lat="-37.866206019" lon="-58.022832461"></trkpt>
+    <trkpt lat="-37.866166362" lon="-58.022793938"></trkpt>
+    <trkpt lat="-37.866114243" lon="-58.022639278"></trkpt>
+    <trkpt lat="-37.866170328" lon="-58.022507845"></trkpt>
+    <trkpt lat="-37.866234911" lon="-58.022633613"></trkpt>
+    <trkpt lat="-37.866319889" lon="-58.022258577"></trkpt>
+    <trkpt lat="-37.866489845" lon="-58.022281238"></trkpt>
+    <trkpt lat="-37.86654763" lon="-58.02198778"></trkpt>
+    <trkpt lat="-37.866631475" lon="-58.022162835"></trkpt>
+    <trkpt lat="-37.866692659" lon="-58.022096552"></trkpt>
+    <trkpt lat="-37.866710788" lon="-58.021902803"></trkpt>
+    <trkpt lat="-37.86678047" lon="-58.021860314"></trkpt>
+    <trkpt lat="-37.866882443" lon="-58.021678461"></trkpt>
+    <trkpt lat="-37.866958923" lon="-58.021481312"></trkpt>
+    <trkpt lat="-37.866948726" lon="-58.021386137"></trkpt>
+    <trkpt lat="-37.866997801" lon="-58.021315658"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>Rápel</name>
+  <trkseg>
+    <trkpt lat="-37.867360089" lon="-58.021904047"></trkpt>
+    <trkpt lat="-37.867384019" lon="-58.022993541"></trkpt>
+    <trkpt lat="-37.867501607" lon="-58.023547065"></trkpt>
+    <trkpt lat="-37.867429907" lon="-58.024430411"></trkpt>
+    <trkpt lat="-37.867626365" lon="-58.025165337"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>picadas 9</name>
+  <trkseg>
+    <trkpt lat="-37.871223112" lon="-58.027755056"></trkpt>
+    <trkpt lat="-37.871067702" lon="-58.027827652"></trkpt>
+    <trkpt lat="-37.870983812" lon="-58.027944882"></trkpt>
+    <trkpt lat="-37.871083296" lon="-58.028194936"></trkpt>
+    <trkpt lat="-37.87110244" lon="-58.028271081"></trkpt>
+    <trkpt lat="-37.871053111" lon="-58.02831152"></trkpt>
+    <trkpt lat="-37.870925341" lon="-58.028239677"></trkpt>
+    <trkpt lat="-37.870876585" lon="-58.028239677"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>picadas 10</name>
+  <trkseg>
+    <trkpt lat="-37.87122311" lon="-58.027755059"></trkpt>
+    <trkpt lat="-37.871477043" lon="-58.027589561"></trkpt>
+    <trkpt lat="-37.871752372" lon="-58.027222815"></trkpt>
+    <trkpt lat="-37.871582442" lon="-58.027013092"></trkpt>
+    <trkpt lat="-37.871618651" lon="-58.026967563"></trkpt>
+    <trkpt lat="-37.871540139" lon="-58.026641327"></trkpt>
+    <trkpt lat="-37.871643387" lon="-58.026149464"></trkpt>
+    <trkpt lat="-37.871633349" lon="-58.02596878"></trkpt>
+    <trkpt lat="-37.872075022" lon="-58.025588769"></trkpt>
+    <trkpt lat="-37.872184006" lon="-58.025517069"></trkpt>
+    <trkpt lat="-37.872272914" lon="-58.025551485"></trkpt>
+    <trkpt lat="-37.872878063" lon="-58.025365065"></trkpt>
+    <trkpt lat="-37.872866591" lon="-58.025192985"></trkpt>
+    <trkpt lat="-37.873061616" lon="-58.025072529"></trkpt>
+    <trkpt lat="-37.87341438" lon="-58.024536212"></trkpt>
+    <trkpt lat="-37.873606537" lon="-58.024180579"></trkpt>
+    <trkpt lat="-37.873913413" lon="-58.024645196"></trkpt>
+    <trkpt lat="-37.874125645" lon="-58.024263751"></trkpt>
+    <trkpt lat="-37.874326406" lon="-58.024705424"></trkpt>
+    <trkpt lat="-37.874544374" lon="-58.024866032"></trkpt>
+    <trkpt lat="-37.874610338" lon="-58.025095473"></trkpt>
+    <trkpt lat="-37.87439237" lon="-58.025554353"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>picadas 11</name>
+  <trkseg>
+    <trkpt lat="-37.866725118" lon="-58.018963141"></trkpt>
+    <trkpt lat="-37.866645531" lon="-58.019216601"></trkpt>
+    <trkpt lat="-37.866645531" lon="-58.019389757"></trkpt>
+    <trkpt lat="-37.866543" lon="-58.019612744"></trkpt>
+    <trkpt lat="-37.866481696" lon="-58.019775503"></trkpt>
+    <trkpt lat="-37.866393624" lon="-58.019881022"></trkpt>
+    <trkpt lat="-37.866337937" lon="-58.020112135"></trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>picadas 12</name>
+  <trkseg>
+    <trkpt lat="-37.866248073" lon="-58.019976861"></trkpt>
+    <trkpt lat="-37.866246161" lon="-58.019655645"></trkpt>
+    <trkpt lat="-37.866352277" lon="-58.01948213"></trkpt>
+    <trkpt lat="-37.866425889" lon="-58.019037112"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

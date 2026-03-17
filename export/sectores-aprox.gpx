@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.8.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<bounds minlat="-37.875106191397379" minlon="-58.035023671189002" maxlat="-37.866418795365583" maxlon="-58.018963985194816"/>                                   
+</metadata>
+<wpt lat="-37.875106191397379" lon="-58.035023671189002">
+  <name>Morphy</name>
+</wpt>
+<wpt lat="-37.872288559667204" lon="-58.029772300997799">
+  <name>Laberinto</name>
+</wpt>
+<wpt lat="-37.868816317480423" lon="-58.026393315902354">
+  <name>EL Nido</name>
+</wpt>
+<wpt lat="-37.866724823490465" lon="-58.018963985194816">
+  <name>El Bloque Izquierda</name>
+</wpt>
+<wpt lat="-37.866418795365583" lon="-58.019031890843856">
+  <name>La Plakita de Abajo</name>
+</wpt>
+</gpx>

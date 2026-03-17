@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.8.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<bounds minlat="-37.874727918217083" minlon="-58.034178087150629" maxlat="-37.865384199435809" maxlon="-58.020075933700916"/>                                   
+</metadata>
+<wpt lat="-37.873453826892124" lon="-58.031443025178618">
+  <name>Cordero Volador (166)</name>
+</wpt>
+<wpt lat="-37.873176168238331" lon="-58.03085581736628">
+  <name>Twenty Uno (155)</name>
+</wpt>
+<wpt lat="-37.872028914873141" lon="-58.029411992366512">
+  <name>Paseando por Roma (142bis)</name>
+</wpt>
+<wpt lat="-37.869572421108145" lon="-58.02725633489802">
+  <name>En el pais de la libertad (100)</name>
+</wpt>
+<wpt lat="-37.869134456402747" lon="-58.026929180539774">
+  <name>Siempre me acuerdo de Bosch (94)</name>
+</wpt>
+<wpt lat="-37.867203556220069" lon="-58.024771068809592">
+  <name>Chori Rústico (34)</name>
+</wpt>
+<wpt lat="-37.865384199435809" lon="-58.020075933700916">
+  <name>El Teatro del Desabrigo</name>
+</wpt>
+<wpt lat="-37.866912255272666" lon="-58.021152503964935">
+  <name>Palo de las Flechas</name>
+</wpt>
+<wpt lat="-37.874727918217083" lon="-58.034178087150629">
+  <name>Rotpunkt (218)</name>
+</wpt>
+</gpx>

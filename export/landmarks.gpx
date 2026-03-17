@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.8.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<bounds minlat="-37.874389000000001" minlon="-58.028193999999999" maxlat="-37.871082999999999" maxlon="-58.025556000000002"/>                                   
+</metadata>
+<wpt lat="-37.871083" lon="-58.028194">
+  <name>Cuerda</name>
+</wpt>
+<wpt lat="-37.871278" lon="-58.027778">
+  <name>Pirka</name>
+</wpt>
+<wpt lat="-37.871611" lon="-58.028167">
+  <name>Palito</name>
+</wpt>
+<wpt lat="-37.874389" lon="-58.025556">
+  <name>Los Piletones</name>
+</wpt>
+</gpx>

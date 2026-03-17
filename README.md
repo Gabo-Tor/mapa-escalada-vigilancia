@@ -10,6 +10,8 @@ Proyecto de cartografía y croquis de escalada de la **Sierra de la Vigilancia**
 |---|---|
 | [export/mapa_pdf_v0.5.pdf](export/mapa_pdf_v0.5.pdf) | Mapa para ver desde el celu |
 | [export/addon_guia_v0.5.pdf](export/addon_guia_v0.5.pdf) | página complementaria para imprimir y agregar a la guía|
+| [export/picadas_y_sectores.gpx](export/picadas_y_sectores.gpx) | Archivo GPX con picadas y sectores para GPS y apps |
+|https://www.google.com/maps/d/u/1/edit?mid=1LyoCFQeLItQdF1Ji7sYadOqtvXdG-5U&usp=sharing| Mapa interactivo en Google Maps |
 
 ---
 

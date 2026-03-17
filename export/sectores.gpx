@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.8.4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<bounds minlat="-37.874667000000002" minlon="-58.034053999999998" maxlat="-37.865895000000002" maxlon="-58.019825099999998"/>                                   
+</metadata>
+<wpt lat="-37.8664973" lon="-58.0198251">
+  <name>La Olita</name>
+</wpt>
+<wpt lat="-37.865895" lon="-58.022639">
+  <name>Facilódromo</name>
+</wpt>
+<wpt lat="-37.86763" lon="-58.025154">
+  <name>Todos Contentos</name>
+</wpt>
+<wpt lat="-37.868003" lon="-58.025724">
+  <name>El Altillo</name>
+</wpt>
+<wpt lat="-37.869758" lon="-58.027536">
+  <name>Chiavolandia</name>
+</wpt>
+<wpt lat="-37.871294" lon="-58.028728">
+  <name>Baticueva</name>
+</wpt>
+<wpt lat="-37.873514" lon="-58.031647">
+  <name>El Bosque</name>
+</wpt>
+<wpt lat="-37.874012" lon="-58.032933">
+  <name>Zeus</name>
+</wpt>
+<wpt lat="-37.874667" lon="-58.034054">
+  <name>Las Placas</name>
+</wpt>
+</gpx>
